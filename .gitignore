@@ -4,3 +4,7 @@
 !*/
 #WhiteList dotfiles
 !.*
+!.local/*
+!.local/**/*
+!.config/*
+!.config/**/*

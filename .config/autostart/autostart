@@ -1,0 +1,5 @@
+#!/bin/bash
+export $(dbus-launch)
+export KWIN_DIRECT_GL=1
+export KWIN_COMPOSE=O2
+kwin --replace &

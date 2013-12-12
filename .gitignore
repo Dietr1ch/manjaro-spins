@@ -3,4 +3,8 @@
 #WhiteList Directories
 !*/
 #WhiteList dotfiles
+!.kde4/*
+!.kde4/**/*
+!.config/*
+!.config/**/*
 !.*

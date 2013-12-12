@@ -1,0 +1,9 @@
+[KSplash Theme: manjaro-nature-splash]
+Name = Manjaro Nature KSplash
+Description = manjaro.org
+Version = 1.0
+Author = tulliana <bilgi@bilgegunluk.com>
+Homepage = http://bilgegunluk.com
+
+# Theme behaviour settings.
+Engine = KSplashX

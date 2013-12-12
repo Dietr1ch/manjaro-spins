@@ -1,0 +1,36 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop1]
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop2]
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop3]
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop4]
+Icon=drive-harddisk
+LastNameSeen=Loop Device
+LastSeenMounted=false
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=17.3 GiB Hard Drive
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sr0]
+EverMounted=true
+Icon=media-optical-data
+LastNameSeen=MJRO_087
+LastSeenMounted=true

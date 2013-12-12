@@ -1,0 +1,10 @@
+[DownloadDialog Settings]
+Height 768=400
+Width 1366=700
+
+[KFileDialog Settings]
+
+[MainWindow]
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAAAtAAAAHiAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled

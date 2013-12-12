@@ -1,0 +1,45 @@
+[BackgroundConfigDialog]
+Height 672=610
+Height 768=706
+Width 1366=669
+
+[KFileDialog Settings]
+
+[PlasmaViews][1]
+panelVisibility=0
+
+[PlasmaViews][1][Horizontal1366]
+offset=0
+
+[PlasmaViews][1][Sizes]
+lastsize=1366
+
+[PlasmaViews][1][Sizes][Horizontal1366]
+max=1366,35
+min=1366,35
+offset=0
+size=1366,35
+
+[PlasmaViews][1][Sizes][Horizontal640]
+max=640,35
+min=640,35
+offset=0
+size=640,35
+
+[Updates]
+performed=/usr/share/apps/plasma-desktop/updates/addShowActivitiesManagerPlasmoid.js,/usr/share/apps/plasma-desktop/updates/set-hidden-single-vd-pager.js,/usr/share/apps/plasma-desktop/updates/systray-to-notifications-widget.js
+
+[ViewIds]
+3=1
+61=2
+
+[stopSuppressingScreenPowerManagement]
+__file=
+cookie=-1
+
+[stopSuppressingSleep]
+__file=
+cookie=-1
+
+[userClosed]
+__file=
